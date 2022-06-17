@@ -8,3 +8,5 @@
 niloyahme-d/niloyahme-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- adding-the-daily-devcard -->
+<a href="https://app.daily.dev/jhonsmith"><img src="https://api.daily.dev/devcards/aed6db58b787437dbdb7099ad2a167d6.png?r=6uj" width="400" alt="Niloy Ahmed's Dev Card"/></a>
