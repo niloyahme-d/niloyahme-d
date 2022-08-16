@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **UI/UX Design, and Python**
 
-- 👨‍💻 All of my projects are available at [https://niloyahme-d.github.io/adventure-traveling/ | https://niloyahme-d.github.io/personal-freedom-portfolio/](https://niloyahme-d.github.io/adventure-traveling/ | https://niloyahme-d.github.io/personal-freedom-portfolio/)
+<!-- - 👨‍💻 All of my projects are available at [https://niloyahme-d.github.io/adventure-traveling/ | https://niloyahme-d.github.io/personal-freedom-portfolio/](https://niloyahme-d.github.io/adventure-traveling/ | https://niloyahme-d.github.io/personal-freedom-portfolio/) -->
 
-- 💬 Ask me about **Front-end web developer, or WordPress web developer**
+<!-- - 💬 Ask me about **Front-end web developer, or WordPress web developer** -->
 
 - 📫 How to reach me **niloyahmed371@gmail.com**
 
