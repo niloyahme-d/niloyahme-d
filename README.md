@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **niloyahmed371@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lfLHkjJ4dmxzOfnfYPSymfP7RZgBTZTD/view?usp=sharing](https://drive.google.com/file/d/1lfLHkjJ4dmxzOfnfYPSymfP7RZgBTZTD/view?usp=sharing)
+- 📄 Know about my experiences <!--[https://drive.google.com/file/d/1lfLHkjJ4dmxzOfnfYPSymfP7RZgBTZTD/view?usp=sharing](https://drive.google.com/file/d/1lfLHkjJ4dmxzOfnfYPSymfP7RZgBTZTD/view?usp=sharing)-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
